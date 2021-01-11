@@ -37,3 +37,5 @@ function outputMessage(message){
      </p>`;
      document.querySelector('.chat-messages').appendChild(div);
 }
+
+need a commit
